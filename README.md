@@ -6,7 +6,7 @@ Manuscript title: Novel feline papillomavirus isolate P20 assembled from metagen
 
 Scripts and data availability can be found in the manuscript and [in the repo for our previous paper on the human skin virome](https://github.com/HerrLab/Graham_2021_forensics_human_virome).
 
-This work is [deposited to bioRxiv]().
+This work is [deposited to bioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.01.466825v1.abstract).
 
 To cite this work or code:
 Graham E, et al. To be updated upon acceptance for publication.
